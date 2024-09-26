@@ -7,4 +7,4 @@ It now includes steps for GitHub
 
 Updating file to work with pull command
 
-To work on github brnaches
+To work on github branches
